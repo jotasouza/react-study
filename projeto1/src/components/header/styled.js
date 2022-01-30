@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const AreaHeader = styled.div`
-    background-color: blueviolet;
-    min-height: 10vh;   
+    background-color: #480ca8;
+    min-height: 3vh;   
     font-size: calc(3px + 2vmin);
     color: white;
 
